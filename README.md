@@ -1,9 +1,9 @@
-<p><strong>уроки английского языка для детей в казани</strong></p>
+<p>уроки английского языка для детей в казани</p>
 <p><img src="https://medaboutme.ru/upload/medialibrary/b47/shutterstock_373615369.jpg" alt="" width="250" height="167" /></p>
 <table>
 <tbody>
 <tr>
-<td><strong>уроки английского языка для детей в казани</strong></td>
+<td>уроки английского языка для детей в казани</td>
 </tr>
 </tbody>
 </table>
@@ -25,7 +25,7 @@
 <table>
 <tbody>
 <tr>
-<td><strong>уроки английского языка для детей в казани</strong></td>
+<td>уроки английского языка для детей в казани</td>
 </tr>
 </tbody>
 </table>
