@@ -1,4 +1,10 @@
-<p><strong>уроки английского языка для детей в казани</strong></p>
+<table>
+<tbody>
+<tr>
+<td><strong>уроки английского языка для детей в казани</strong></td>
+</tr>
+</tbody>
+</table>
 <p><img src="https://medaboutme.ru/upload/medialibrary/b47/shutterstock_373615369.jpg" alt="" width="250" height="167" /></p>
 <table>
 <tbody>
